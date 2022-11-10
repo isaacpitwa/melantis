@@ -39,7 +39,7 @@ function Contact () {
                                             </li>
                                             <li>
                                                 <i className="icon-envelope"></i>
-                                                <a href="mailto:#">info@Molla.com</a>
+                                                <a href="mailto:#">info@melantis-sisters.com</a>
                                             </li>
                                         </ul>
                                     </div>
@@ -119,8 +119,8 @@ function Contact () {
                                         </div>
                                         <div className="col-sm-7 col-xl-6">
                                             <div className="store-content">
-                                                <h3 className="store-title">Wall Street Plaza</h3>
-                                                <address>88 Pine St, New York, NY 10005, USA</address>
+                                                <h3 className="store-title">Mabirizi Plaza</h3>
+                                                <address>88 Kampala Rd, Kampala, Uganda</address>
                                                 <div><a href="tel:#">+1 987-876-6543</a></div>
 
                                                 <h4 className="store-subtitle">Store Hours:</h4>
@@ -145,9 +145,9 @@ function Contact () {
 
                                         <div className="col-sm-7 col-xl-6">
                                             <div className="store-content">
-                                                <h3 className="store-title">One New York Plaza</h3>
-                                                <address>88 Pine St, New York, NY 10005, USA</address>
-                                                <div><ALink href="tel:#">+1 987-876-6543</ALink></div>
+                                                <h3 className="store-title">Acacia Mall</h3>
+                                                <address>88 Kampala Rd, Kampala, Uganda</address>
+                                                <div><ALink href="tel:#">+256 987-876-6543</ALink></div>
 
                                                 <h4 className="store-subtitle">Store Hours:</h4>
                                                 <div>Monday - Friday 9am to 8pm</div>
@@ -166,13 +166,13 @@ function Contact () {
                 <div id="map" className="w-100">
                     <GoogleMapReact
                         bootstrapURLKeys={ { key: 'AIzaSyBgVsModMpsR59_OIK-2sEcmhBBkW4xUuw' } }
-                        defaultCenter={ { lat: 59.95, lng: 30.33 } }
+                        defaultCenter={ { lat: 0.347596, lng: 32.582520 } }
                         defaultZoom={ 11 }
                     >
                         <MapComponent
-                            lat={ 59.955413 }
-                            lng={ 30.337844 }
-                            text="My Marker"
+                            lat={ 0.347596 }
+                            lng={ 32.582520 }
+                            text="Melantis Sisters"
                         />
                     </GoogleMapReact>
                 </div>
