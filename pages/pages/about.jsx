@@ -19,12 +19,6 @@ function About () {
                 </div>
             </nav>
 
-            <div className="container">
-                <div className="page-header page-header-big text-center" style={ { backgroundImage: `url(images/about-header-bg.jpg)` } } >
-                    <h1 className="page-title text-white">About us<span className="text-white">Who we are</span></h1>
-                </div>
-            </div>
-
             <div className="page-content pb-0">
                 <div className="container">
                     <div className="row">
