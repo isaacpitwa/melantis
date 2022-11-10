@@ -102,7 +102,7 @@ function About () {
 
                                 <figcaption className="member-overlay">
                                     <div className="member-overlay-content">
-                                        <h3 className="member-title">Samanta Grey<span>Founder & CEO</span></h3>
+                                        <h3 className="member-title"> Nakabenge Ednah<span>Founder & CEO</span></h3>
                                         <p>Sed pretium, ligula sollicitudin viverra, tortor libero sodales leo, eget blandit nunc.</p>
                                         <div className="social-icons social-icons-simple">
                                             <ALink href="#" className="social-icon" title="Facebook"><i className="icon-facebook-f"></i></ALink>
@@ -115,7 +115,7 @@ function About () {
 
                             <div className="member-content">
                                 <h3 className="member-title">
-                                    Samanta Grey
+                                    Nakabenge Ednah
                                     <span>Founder & CEO</span>
                                 </h3>
                             </div>
@@ -135,7 +135,7 @@ function About () {
 
                                 <figcaption className="member-overlay">
                                     <div className="member-overlay-content">
-                                        <h3 className="member-title">Bruce Sutton<span>Sales & Marketing Manager</span></h3>
+                                        <h3 className="member-title">Bruce kibirige<span>Sales & Marketing Manager</span></h3>
                                         <p>Sed pretium, ligula sollicitudin viverra, tortor libero sodales leo, eget blandit nunc.</p>
                                         <div className="social-icons social-icons-simple">
                                             <ALink href="#" className="social-icon" title="Facebook"><i className="icon-facebook-f"></i></ALink>
@@ -148,7 +148,7 @@ function About () {
 
                             <div className="member-content">
                                 <h3 className="member-title">
-                                    Bruce Sutton
+                                    Bruce kibirige
                                     <span>Sales & Marketing Manager</span>
                                 </h3>
                             </div>
@@ -212,7 +212,7 @@ function About () {
                                 <p>“ Impedit, ratione sequi, sunt incidunt magnam et. Delectus obcaecati optio eius error libero perferendis nesciunt atque dolores magni recusandae! Doloremque quidem error eum quis similique doloribus natus qui ut ipsum.Velit quos ipsa exercitationem, vel unde obcaecati impedit eveniet non. ”</p>
 
                                 <cite>
-                                    Victoria Ventura
+                                    Victoria Baker
                                     <span>Customer</span>
                                 </cite>
                             </blockquote>
