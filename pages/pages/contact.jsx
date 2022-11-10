@@ -12,19 +12,10 @@ function Contact () {
                         <li className="breadcrumb-item">
                             <ALink href="/">Home</ALink>
                         </li>
-                        <li className="breadcrumb-item">
-                            <ALink href="#">Pages</ALink>
-                        </li>
                         <li className="breadcrumb-item active">Contact us</li>
                     </ol>
                 </div>
             </nav>
-
-            <div className="container">
-                <div className="page-header page-header-big text-center" style={ { backgroundImage: `url(images/contact-header-bg.jpg)` } }>
-                    <h1 className="page-title text-white">Contact us<span className="text-white">keep in touch with us</span></h1>
-                </div>
-            </div>
 
             <div className="page-content pb-0">
                 <div className="container">
