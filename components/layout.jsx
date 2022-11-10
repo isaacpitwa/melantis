@@ -20,7 +20,7 @@ function Layout ( { children, hideQuick, hideVideo } ) {
     let scrollTop;
 
     useEffect( () => {
-        if ( router.pathname.includes( 'pages/coming-soon' ) ) {
+        if ( router.pathname.includes( 'coming-soon' ) ) {
             document.querySelector( "header" ).classList.add( "d-none" );
             document.querySelector( "footer" ).classList.add( "d-none" );
         } else {

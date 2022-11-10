@@ -19,7 +19,7 @@ function About () {
                 </div>
             </nav>
 
-            <div className="page-content pb-5">
+            <div className="page-content pb-0 pt-5">
                 <div className="container">
                     <div className="row">
                         <div className="col-lg-6 mb-3 mb-lg-0">

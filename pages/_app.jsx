@@ -40,7 +40,7 @@ const WrappedApp = ({ Component, pageProps }) => {
                     <meta name="description" content="Melantis sisters –  Beauty It is designed to go well with multi-purpose websites."
                     />
                     <meta name="author" content="d-themes" />
-                    <meta name="apple-mobile-web-app-title" content="Molla" />
+                    <meta name="apple-mobile-web-app-title" content="Melantis sisters" />
                     <meta name="application-name" content="Melantis sisters" />
                     <meta name="msapplication-TileColor" content="#cc9966" />
                     <meta name="msapplication-config" content="images/icons/browserconfig.xml" />

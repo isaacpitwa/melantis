@@ -131,7 +131,7 @@ function Footer () {
 
             <div className="footer-bottom">
                 <div className={ containerClass }>
-                    <p className="footer-copyright font-weight-normal">Copyright © { ( new Date() ).getFullYear() } Molla Store. All Rights Reserved.</p>
+                    <p className="footer-copyright font-weight-normal">Copyright © { ( new Date() ).getFullYear() } Melantis sisters. All Rights Reserved.</p>
 
                     <ul className="footer-menu">
                         <li><a href="#" className="font-weight-normal" onClick={ e => { e.preventDefault(); } }>Terms Of Use</a></li>
