@@ -14,9 +14,6 @@ function About () {
                         <li className="breadcrumb-item">
                             <ALink href="/">Home</ALink>
                         </li>
-                        <li className="breadcrumb-item">
-                            <ALink href="#">Pages</ALink>
-                        </li>
                         <li className="breadcrumb-item active">About us</li>
                     </ol>
                 </div>
